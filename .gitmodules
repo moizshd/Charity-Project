@@ -1,0 +1,3 @@
+[submodule "charity-frontend"]
+	path = charity-frontend
+	url = https://github.com/moizshd/charity-frontend.git
